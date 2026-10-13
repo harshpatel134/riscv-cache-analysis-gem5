@@ -68,10 +68,6 @@ Increasing associativity from 2-way to 16-way improved the hit rate from 95.65% 
 - RISC-V
 - Python
 
-## Project Report
-
-[View the detailed project report](RISC-V_Cache_Analysis_Report.pdf)
-
 ## Conclusion
 
-The simulation results demonstrate how increasing cache size and associativity can improve L1 data cache performance and reduce processor execution overhead for the workloads used in this study.
+The simulation results show that increasing cache size and associativity improves L1 data cache performance and reduces processor execution overhead for the workloads used in this study.
